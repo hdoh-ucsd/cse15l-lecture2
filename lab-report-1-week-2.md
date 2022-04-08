@@ -1,1 +1,1 @@
-
+![lab report week1 image](screenshot-lab1-report.png)
